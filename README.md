@@ -6,4 +6,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUCCASJNR&count_private=true)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NUCCASJNR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NUCCASJNR&theme=dark)](https://git.io/streak-stats)
