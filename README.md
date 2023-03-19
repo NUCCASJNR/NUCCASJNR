@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+Am+AlAreef)](https://git.io/typing-svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUCCASJNR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -7,4 +9,3 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NUCCASJNR&theme=dark)](https://git.io/streak-stats)
-
