@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Airbnb_clone](https://github.com/NUCCASJNR/AirBnB_clone)
 
-- 🌱 I’m currently learning **python and MYSQL**
+- 🌱 I’m currently learning **python, MYSQL and JavaScript**
 
-- 💬 Ask me about **shell, mysql and python**
+- 💬 Ask me about **shell, mysql, python and JavaScript**
 
 - 📫 How to reach me **alareefadegbite@gmail.com**
 
