@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/codewithalareef" target="blank"><img src="https://img.shields.io/twitter/follow/codewithalareef?logo=twitter&style=for-the-badge" alt="codewithalareef" /></a> </p>
 
-- 🔭 I’m currently working on [Airbnb_clone](https://www.codewithalareef.tech)
+- 🔭 I’m currently working on [portfolio_project](https://www.codewithalareef.tech)
 
-- 🌱 I’m currently learning **python and MYSQL**
+- 🌱 I’m currently learning **python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.codewithalareef.tech](https://www.codewithalareef.tech)
+- 👨‍💻 All of my projects are available at [portfolio](https://www.codewithalareef.tech)
 
-- 📝 I regularly write articles on [alareef.hashnode.dev](alareef.hashnode.dev)
+- 📝 I regularly write articles on [alareef](alareef.hashnode.dev)
 
-- 💬 Ask me about **shell, mysql and python**
+- 💬 Ask me about **Bash,JavaScript, mysql, and python**
 
 - 📫 How to reach me **alareefadegbite@gmail.com**
 
