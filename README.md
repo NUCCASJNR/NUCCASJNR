@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewithalareef" target="blank"><img src="https://img.shields.io/twitter/follow/codewithalareef?logo=twitter&style=for-the-badge" alt="codewithalareef" /></a> </p>
 
-- 🔭 I’m currently working on [Airbnb_clone](https://github.com/NUCCASJNR/AirBnB_clone)
+- 🔭 I’m currently working on [My portfolio](https://www.codewithalareef.tech)
 
 - 🌱 I’m currently learning **python, MYSQL and JavaScript**
 
