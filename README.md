@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/codewithalareef" target="blank"><img src="https://img.shields.io/twitter/follow/codewithalareef?logo=twitter&style=for-the-badge" alt="codewithalareef" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio_project](https://www.codewithalareef.tech)
+- 🔭 I’m currently building [my_portfolio](https://www.codewithalareef.tech)
 
 - 🌱 I’m currently learning **python and JavaScript**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://www.codewithalareef.tech)
 
-- 📝 I regularly write articles on [alareef](alareef.hashnode.dev)
+- 📝 I often write articles on my [blog](https://alareef.hashnode.dev)
 
 - 💬 Ask me about **Bash,JavaScript, mysql, and python**
 
