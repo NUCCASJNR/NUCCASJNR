@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al-Areef</h1>
+<!-- <h1 align="center">Hi 👋, I'm Al-Areef</h1>
 <h3 align="center">A seasoned Backend Developer with a passion for crafting efficient and scalable solutions. My expertise lies in Python and Flask, where I leverage my skills to build robust web applications that meet and exceed client expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuccasjnr&label=Profile%20views&color=0e75b6&style=flat" alt="nuccasjnr" /> </p>
@@ -53,4 +53,4 @@ greet()
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuccasjnr&show_icons=true&locale=en" alt="nuccasjnr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuccasjnr&" alt="nuccasjnr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuccasjnr&" alt="nuccasjnr" /></p> -->
