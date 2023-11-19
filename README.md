@@ -53,4 +53,4 @@ greet()
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuccasjnr&show_icons=true&locale=en" alt="nuccasjnr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuccasjnr&" alt="nuccasjnr" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuccasjnr&" alt="nuccasjnr" /></p>
