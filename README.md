@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Al-Areef</h1>
-<h3 align="center">A passionate Backend Developer from Nigeria</h3>
+<!-- <h1 align="center">Hi 👋, I'm Al-Areef</h1>
+<h3 align="center">A seasoned Backend Developer with a passion for crafting efficient and scalable solutions. My expertise lies in Python and Flask, where I leverage my skills to build robust web applications that meet and exceed client expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuccasjnr&label=Profile%20views&color=0e75b6&style=flat" alt="nuccasjnr" /> </p>
 
@@ -7,11 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/codewithalareef" target="blank"><img src="https://img.shields.io/twitter/follow/codewithalareef?logo=twitter&style=for-the-badge" alt="codewithalareef" /></a> </p>
 
-- 🔭 I’m currently working on [PrepGenius](https://github.com/NUCCASJNR/PrepGenius)
+```python
+def greet():
+    print("Hello, I'm Al-Areef!")
+
+greet()
+```
+
+- 🔭 I’m currently working on [PaystackPy](https://github.com/NUCCASJNR/Paystackpy)
 
 - 🌱 I’m currently learning **Python, JavaScript, Flask, Nodejs**
 
 - 👯 I’m looking to collaborate on **Any Python Project**
+
+- ⚡ Beyond Code **In addition to my tech prowess, I bring a unique blend of skills in electrical installation and renewable energy. I specialize in designing and installing solar systems and inverters. My hands-on experience in electrical engineering adds a practical edge to my problem-solving abilities.**
+
+- 🔧 Key Skills in Electrical Engineering
+    - **Electrical Installation and maintenance**
+    - **Solar Systems Design and Installation**
+    - **Inverter Setup and Maintenance**
+    - **Sustainable Energy Solutions**
 
 - 🤝 I’m looking for help with [PrepGenius](https://github.com/NUCCASJNR/PrepGenius)
 
@@ -38,4 +53,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuccasjnr&show_icons=true&locale=en" alt="nuccasjnr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuccasjnr&" alt="nuccasjnr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuccasjnr&" alt="nuccasjnr" /></p> -->
