@@ -13,12 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Any Python Project**
 
-- ⚡ Beyond Code **In addition to my tech prowess, I bring a unique blend of skills in electrical installation and renewable energy. I specialize in designing and installing solar systems and inverters. My hands-on experience in electrical engineering adds a practical edge to my problem-solving abilities.
-**
-- 🔧 Key Skills in Electrical Engineering **Electrical Installation
-Solar Systems Design and Installation
-Inverter Setup and Maintenance
-Sustainable Energy Solutions**
+- ⚡ Beyond Code **In addition to my tech prowess, I bring a unique blend of skills in electrical installation and renewable energy. I specialize in designing and installing solar systems and inverters. My hands-on experience in electrical engineering adds a practical edge to my problem-solving abilities.**
+
+- 🔧 Key Skills in Electrical Engineering
+    - **Electrical Installation**
+    - **Solar Systems Design and Installation**
+    - **Inverter Setup and Maintenance**
+    - **Sustainable Energy Solutions**
 
 - 🤝 I’m looking for help with [PrepGenius](https://github.com/NUCCASJNR/PrepGenius)
 
