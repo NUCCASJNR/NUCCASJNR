@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/codewithalareef" target="blank"><img src="https://img.shields.io/twitter/follow/codewithalareef?logo=twitter&style=for-the-badge" alt="codewithalareef" /></a> </p>
 
+```python
+def greet():
+    print("Hello, I'm Al-Areef!")
+
+greet()
+```
+
 - 🔭 I’m currently working on [PaystackPy](https://github.com/NUCCASJNR/Paystackpy)
 
 - 🌱 I’m currently learning **Python, JavaScript, Flask, Nodejs**
@@ -16,7 +23,7 @@
 - ⚡ Beyond Code **In addition to my tech prowess, I bring a unique blend of skills in electrical installation and renewable energy. I specialize in designing and installing solar systems and inverters. My hands-on experience in electrical engineering adds a practical edge to my problem-solving abilities.**
 
 - 🔧 Key Skills in Electrical Engineering
-    - **Electrical Installation**
+    - **Electrical Installation and maintenance**
     - **Solar Systems Design and Installation**
     - **Inverter Setup and Maintenance**
     - **Sustainable Energy Solutions**
